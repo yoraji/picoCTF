@@ -37,8 +37,8 @@ p.sendline(b"4")
 
 # Receive and print the flag
 print(p.recvall())  # Receive the flag and analyze the difference between heap_01 and heap_02
-
-### Changes:
+```
+# Changes:
 1. Improved grammar and readability.
 2. Added placeholder links for the binary and source files.
 3. Properly formatted the script in a code block.
